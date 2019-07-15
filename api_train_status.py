@@ -4,7 +4,7 @@
 import json, requests
 
 def get_live_status():
-    apikey= "arz6oaccpj"
+    apikey= "arz6"
 
     #"https://api.railwayapi.com/v2/live/train/12046/station/GKP/date/20-06-2017/apikey/myapikey/"
 
